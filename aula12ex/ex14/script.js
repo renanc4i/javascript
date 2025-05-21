@@ -22,5 +22,4 @@ function carregar() {
         img.src = "imagens/foto-noite.png"
         document.body.style.background = '#225c6d'
     }
-
 }
